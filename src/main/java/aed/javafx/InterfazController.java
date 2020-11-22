@@ -14,7 +14,6 @@ import javafx.scene.layout.VBox;
 public class InterfazController implements Initializable {
 	
 	
-	
 	public InterfazController() throws IOException {
 		// TODO Auto-generated constructor stub
 		
